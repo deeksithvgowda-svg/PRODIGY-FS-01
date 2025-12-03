@@ -39,4 +39,4 @@ Since this is a client-side SPA, running the project is straightforward:
 * **Mock Database:** Browser `localStorage`
 
 ---
-*Developed by **Shashank S***
+*Developed by **Deekshith gowda kv***
